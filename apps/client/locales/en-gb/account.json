@@ -8,7 +8,7 @@
     "connections": "Připojení",
     "connectDiscord": "Připoj svůj Discord",
     "disconnectDiscord": "Odpoj svůj Discord",
-    "disconnectText": "This will remove the ability to login via Discord.",
+    "disconnectText": "Toto odebere možnost přihlásit se přes discord.",
     "disabledDisconnectText": "You cannot disconnect your Discord connection when 'Disallow regular login' is enabled. To delete your account please contact an administrator",
     "connectText": "Toto přidá možnost připojit se přes discord.",
     "disconnecting": "Odpojuji...",
