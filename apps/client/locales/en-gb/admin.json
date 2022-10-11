@@ -61,12 +61,12 @@
     "manageRoles": "Správa Rolí",
     "roles": "Role",
     "editUser": "Upravit uživatele",
-    "editing": "You are currently editing <span>{user}</span>",
+    "editing": "Momentálně upravuješ uživatele <span>{user}</span>",
     "editUnit": "Upravit hlídku",
-    "alert_deleteCustomRole": "Are you sure you want to delete <span>{role}</span>? This action cannot be undone",
-    "alert_deleteUnit": "Are you sure you want to delete <span>{unit}</span>? This action cannot be undone!",
-    "alert_deleteCustomField": "Are you sure you want to delete this custom field? This action cannot be undone. All values created with this field will also be deleted.",
-    "info_pendingBusinesses": "These are created businesses that are awaiting approval to be used. Accept or decline them.",
-    "alert_deleteBusiness": "Are you sure you want to delete this <span>{name}</span>? All it's data will be lost. This action cannot be undone."
+    "alert_deleteCustomRole": "Jsi si jistý, že chceš smazat <span>{role}</span>? Toto nelze vrátit zpět!",
+    "alert_deleteUnit": "Jsi si jistý, že chceš smazat <span>{unit}</span>? Toto nelze vrátit zpět!",
+    "alert_deleteCustomField": "Jsi si jistý, že chceš smazat toto pole? Toto nelze vrátit zpět! Všechny hodnoty mohou být smazány také!",
+    "info_pendingBusinesses": "Zde jsou podniky, které čekají na schválení, můžeš je příjmout nebo zamítnout.",
+    "alert_deleteBusiness": "Jsi si jistý, že chceš smazat this <span>{name}</span>? Všechna data budou ztracena, toto nelze vrátit."
   }
 }

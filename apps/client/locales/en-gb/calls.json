@@ -1,9 +1,9 @@
 {
   "Calls": {
-    "tow": "Tow",
-    "towLogs": "Tow Logs",
+    "tow": "Odtahovka",
+    "towLogs": "Odtahovka Log",
     "taxi": "Taxi",
-    "active911Calls": "Active 999 Calls",
+    "active911Calls": "Aktivní hovory | 112",
     "noTowCalls": "There are no tow calls yet.",
     "noTaxiCalls": "There are no taxi calls yet.",
     "no911Calls": "There are no 999 calls yet.",
