@@ -1,140 +1,140 @@
 {
   "Values": {
-    "totalItems": "Total Items",
-    "values": "Values",
-    "shouldDo": "Should Do",
-    "color": "Colour",
-    "callsign": "Callsign",
-    "department": "Force",
+    "totalItems": "Položky celkem",
+    "values": "Hodnoty",
+    "shouldDo": "Mělo by se",
+    "color": "Barva",
+    "callsign": "Volací znak",
+    "department": "Oddělení",
     "gameHash": "Game Hash",
-    "file": "file",
-    "importValues": "Import via file",
-    "exportValues": "Export Values",
-    "addPenalCodeGroup": "Add Group",
-    "deleteGroup": "Delete Group",
-    "ungrouped": "Ungrouped",
-    "licenseType": "License Type",
-    "whitelisted": "Whitelisted",
-    "whatPages": "What Pages",
-    "departments": "Forces",
-    "isDefaultDepartment": "Default Force",
-    "deleteSelectedValues": "Delete Selected Values",
-    "isDefault": "Is Default",
-    "defaultOfficerRank": "Default Officer Rank",
-    "pairedUnitTemplate": "Paired Unit Template",
-    "isConfidential": "Is Confidential",
-    "priority": "Priority",
-    "isDisabled": "Disabled",
-    "alert_deletePenalCodeGroup": "Are you sure you want to delete <span>{group}</span>? This action cannot be undone.",
-    "alert_deleteValue": "Are you sure you want to delete <span>{value}</span>? This action cannot be undone!",
-    "alert_deleteSelectedValues": "Are you sure you want to delete {length} items? This action cannot be undone"
+    "file": "Soubor",
+    "importValues": "Nahrát přes soubor",
+    "exportValues": "Stahnout hodnoty",
+    "addPenalCodeGroup": "Přidat skupinu",
+    "deleteGroup": "Smazat skupinu",
+    "ungrouped": "Nezařazen",
+    "licenseType": "Typ ŘP",
+    "whitelisted": "Přístup udělen",
+    "whatPages": "Jaká stránka",
+    "departments": "Oddělení",
+    "isDefaultDepartment": "Základní Oddělení",
+    "deleteSelectedValues": "Odstranit vybrané hodnoty",
+    "isDefault": "Výchozí nastavení",
+    "defaultOfficerRank": "Výchozí hodnost policisty",
+    "pairedUnitTemplate": "Šablona pro párové jednotky",
+    "isConfidential": "Je důvěrný",
+    "priority": "Priorita",
+    "isDisabled": "Vypnuto",
+    "alert_deletePenalCodeGroup": "Opravdu chcete odstranit <span>{group}</span>? Tuto akci nelze vzít zpět.",
+    "alert_deleteValue": "Opravdu chcete odstranit <span>{value}</span>? Tuto akci nelze vzít zpět!",
+    "alert_deleteSelectedValues": "Opravdu chcete odstranit {length} items? Tuto akci nelze vzít zpět"
   },
   "GENDER": {
-    "MANAGE": "Manage Genders",
-    "ADD": "Add Gender",
-    "DELETE": "Delete Gender",
-    "EDIT": "Edit Gender"
+    "MANAGE": "Spravovat pohlaví",
+    "ADD": "Přidat pohlaví",
+    "DELETE": "Smazat pohlaví",
+    "EDIT": "Upravit pohlaví"
   },
   "WEAPON": {
-    "MANAGE": "Manage Weapons",
-    "ADD": "Add Weapon",
-    "DELETE": "Delete Weapon",
-    "EDIT": "Edit Weapon"
+    "MANAGE": "Spravovat zbraň",
+    "ADD": "Přidat zbraň",
+    "DELETE": "Smazat zbraň",
+    "EDIT": "Upravit zbraň"
   },
   "VEHICLE": {
-    "MANAGE": "Manage Vehicles",
-    "ADD": "Add Vehicle",
-    "DELETE": "Delete Vehicle",
-    "EDIT": "Edit Vehicle"
+    "MANAGE": "Spravovat vozidla",
+    "ADD": "Přidat vozidla",
+    "DELETE": "Smazat vozidla",
+    "EDIT": "Upravit vozidla"
   },
   "ETHNICITY": {
-    "MANAGE": "Manage Ethnicities",
-    "ADD": "Add Ethnicity",
-    "DELETE": "Delete Ethnicity",
-    "EDIT": "Edit Ethnicity"
+    "MANAGE": "Spravovat Národnosti",
+    "ADD": "Přidat Národnosti",
+    "DELETE": "Smazat Národnosti",
+    "EDIT": "Upravit Národnosti"
   },
   "BLOOD_GROUP": {
-    "MANAGE": "Manage Blood Groups",
-    "ADD": "Add Blood Group",
-    "DELETE": "Delete Blood Group",
-    "EDIT": "Edit Blood Group"
+    "MANAGE": "Spravovat krevní skupiny",
+    "ADD": "Přidat krevní skupiny",
+    "DELETE": "Smazat krevní skupiny",
+    "EDIT": "Upravit krevní skupiny"
   },
   "LICENSE": {
-    "MANAGE": "Manage Licenses",
-    "ADD": "Add License",
-    "DELETE": "Delete License",
-    "EDIT": "Edit License"
+    "MANAGE": "Spravovat Licenses",
+    "ADD": "Přidat License",
+    "DELETE": "Smazat License",
+    "EDIT": "Upravit License"
   },
   "BUSINESS_ROLE": {
-    "MANAGE": "Manage Business Roles",
-    "ADD": "Add Business Role",
-    "DELETE": "Delete Business Role",
-    "EDIT": "Edit Business Role"
+    "MANAGE": "Spravovat podnikatelské role",
+    "ADD": "Přidat podnikatelské role",
+    "DELETE": "Smazat podnikatelské role",
+    "EDIT": "Upravit podnikatelské role"
   },
   "DEPARTMENT": {
-    "MANAGE": "Manage Forces",
-    "ADD": "Add Force",
-    "DELETE": "Delete Force",
-    "EDIT": "Edit Force"
+    "MANAGE": "Spravovat oddělení",
+    "ADD": "Přidat oddělení",
+    "DELETE": "Smazat oddělení",
+    "EDIT": "Upravit oddělení"
   },
   "CODES_10": {
-    "MANAGE": "Manage State Codes",
-    "ADD": "Add State Code",
-    "DELETE": "Delete State Code",
-    "EDIT": "Edit State Code"
+    "MANAGE": "Spravovat státní zákony",
+    "ADD": "Přidat státní zákony",
+    "DELETE": "Smazat státní zákony",
+    "EDIT": "Upravit státní zákony"
   },
   "OFFICER_RANK": {
-    "MANAGE": "Manage Officer Ranks",
-    "ADD": "Add Officer Rank",
-    "DELETE": "Delete Officer Rank",
-    "EDIT": "Edit Officer Rank"
+    "MANAGE": "Spravovat hodnost policisty",
+    "ADD": "Přidat hodnost policisty",
+    "DELETE": "Smazat hodnost policisty",
+    "EDIT": "Upravit hodnost policisty"
   },
   "PENAL_CODE": {
-    "MANAGE": "Manage Charges",
-    "ADD": "Add Charges",
-    "DELETE": "Delete Charges",
-    "EDIT": "Edit Charges"
+    "MANAGE": "Spravovat pokuty",
+    "ADD": "Přidat pokuty",
+    "DELETE": "Smazat pokuty",
+    "EDIT": "Upravit pokuty"
   },
   "DIVISION": {
-    "MANAGE": "Manage Divisions",
-    "ADD": "Add Division",
-    "DELETE": "Delete Division",
-    "EDIT": "Edit Division"
+    "MANAGE": "Spravovat divize",
+    "ADD": "Přidat divize",
+    "DELETE": "Smazat divize",
+    "EDIT": "Edit divize"
   },
   "DRIVERSLICENSE_CATEGORY": {
-    "MANAGE": "Manage DVLA Categories",
-    "ADD": "Add DVLA Category",
-    "DELETE": "Delete DVLA Category",
-    "EDIT": "Edit DVLA Category"
+    "MANAGE": "Spravovat skupiny ŘP",
+    "ADD": "Přidat skupiny ŘP",
+    "DELETE": "Smazat skupiny ŘP",
+    "EDIT": "Upravit skupiny ŘP"
   },
   "IMPOUND_LOT": {
-    "MANAGE": "Manage Pound Lots",
-    "ADD": "Add Pound Lot",
-    "DELETE": "Delete Pound Lot",
-    "EDIT": "Edit Pound Lot"
+    "MANAGE": "Spravovat odtahové parkoviště",
+    "ADD": "Přidat odtahové parkoviště",
+    "DELETE": "Smazat odtahové parkoviště",
+    "EDIT": "Upravit odtahové parkoviště"
   },
   "VEHICLE_FLAG": {
-    "MANAGE": "Manage Vehicle Flags",
-    "ADD": "Add Vehicle Flag",
-    "DELETE": "Delete Vehicle Flag",
-    "EDIT": "Edit Vehicle Flag"
+    "MANAGE": "Spravovat podezřelé vozidla",
+    "ADD": "Přidat podezřelé vozidla",
+    "DELETE": "Smazat podezřelé vozidla",
+    "EDIT": "Upravit podezřelé vozidla"
   },
   "CITIZEN_FLAG": {
-    "MANAGE": "Manage Civilian Flags",
-    "ADD": "Add Civilian Flags",
-    "DELETE": "Delete Civilian Flag",
-    "EDIT": "Edit Civilian Flag"
+    "MANAGE": "Spravovat podezřelé osoby",
+    "ADD": "Přidat podezřelé osoby",
+    "DELETE": "Smazat podezřelé osoby",
+    "EDIT": "Upravit podezřelé osoby"
   },
   "QUALIFICATION": {
-    "MANAGE": "Manage Unit Qualifications",
-    "ADD": "Add Unit Qualification",
-    "DELETE": "Delete Unit Qualification",
-    "EDIT": "Edit Unit Qualification"
+    "MANAGE": "Spravovat kvalifikace jednotky",
+    "ADD": "Přidat kvalifikace jednotky",
+    "DELETE": "Smazat kvalifikace jednotky",
+    "EDIT": "Upravit kvalifikace jednotky"
   },
   "CALL_TYPE": {
-    "MANAGE": "Manage Call Types",
-    "ADD": "Add Call Type",
-    "DELETE": "Delete Call Type",
-    "EDIT": "Edit Call Type"
+    "MANAGE": "Spravovat typ hovoru",
+    "ADD": "Přidat typ hovoru",
+    "DELETE": "Smazat typ hovoru",
+    "EDIT": "Upravit typ hovoru"
   }
 }
